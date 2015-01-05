@@ -1,4 +1,4 @@
-# Health monitoring application
+# Health monitoring application - Software Requirements
 ### An application to view health status and report of a patient. It also alerts on emergency situations
 
 -----------------------------------------
